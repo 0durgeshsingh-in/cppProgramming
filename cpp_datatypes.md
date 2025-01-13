@@ -21,6 +21,6 @@ int main(){
 }
 ```
 ### Output Result :
-<p> The ASCII Code for A is 65 </p><br>
-<p> Adding 1 to the character code : </p><br>
-<p> The ASCII Code for B is 66 </p><br>
+<p> The ASCII Code for A is 65 <br>
+ Adding 1 to the character code : <br>
+ The ASCII Code for B is 66 </p>
