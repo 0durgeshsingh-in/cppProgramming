@@ -19,3 +19,8 @@ int main(){
 
     return 0;
 }
+```
+### Output Result :
+The ASCII Code for A is 65 \n
+Adding 1 to the character code : 
+The ASCII Code for B is 66
