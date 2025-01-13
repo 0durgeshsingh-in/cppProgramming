@@ -2,7 +2,7 @@
 - Store ASCII code into char and then and int 1 to the char . the char reacts as int .
 
 
----- C++
+```cpp
 #include <iostream>
 #include <conio.h>
 using namespace std;
