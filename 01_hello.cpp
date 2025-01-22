@@ -1,6 +1,4 @@
-# Hello World Programming
-
-```cpp
+// # Hello World Programming
 // Include the input-output stream library for output functionality
 // Allow usage of standard namespace without prefixing 'std::'
 // Output the message "Hello World ! " to the console
