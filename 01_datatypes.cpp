@@ -1,5 +1,5 @@
 // Data Type 
-- Store ASCII code into char and then and int 1 to the char . the char reacts as int .
+// - Store ASCII code into char and then and int 1 to the char . the char reacts as int .
 
 
 
@@ -19,7 +19,7 @@ int main(){
 
     return 0;
 }
-```
+
 /* 
 Output Result :
  The ASCII Code for A is 65 
