@@ -1,8 +1,8 @@
-### Data Type 
+// Data Type 
 - Store ASCII code into char and then and int 1 to the char . the char reacts as int .
 
 
-```cpp
+
 #include <iostream>
 #include <conio.h>
 using namespace std;
@@ -20,7 +20,9 @@ int main(){
     return 0;
 }
 ```
-### Output Result :
-<p> The ASCII Code for A is 65 <br>
- Adding 1 to the character code : <br>
- The ASCII Code for B is 66 </p>
+/* 
+Output Result :
+ The ASCII Code for A is 65 
+ Adding 1 to the character code :  
+ The ASCII Code for B is 66  
+*/
