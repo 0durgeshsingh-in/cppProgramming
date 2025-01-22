@@ -1,8 +1,6 @@
 // Data Type 
 // - Store ASCII code into char and then and int 1 to the char . the char reacts as int .
 
-
-
 #include <iostream>
 #include <conio.h>
 using namespace std;
@@ -15,8 +13,6 @@ int main(){
     ch = num + 1;
     num =  ch;
     cout << "The ASCII Code for "<< ch <<" is " << num << "\n";
-    
-
     return 0;
 }
 
