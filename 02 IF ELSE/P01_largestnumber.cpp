@@ -26,7 +26,6 @@ int main() {
     cout << endl << "The Largest Number of " << firstNumber << ", " << secondNumber << ", and " << thirdNumber
          << " is " << maxNumber << endl;
 
-
     return 0;
 }
 
