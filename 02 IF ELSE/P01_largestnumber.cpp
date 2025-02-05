@@ -27,11 +27,6 @@ int main() {
          << " is " << maxNumber << endl;
 
 
-    // Add a pause
-    cout << "Press any key to exit...";
-    cin.ignore(); // Ignore any leftover input
-    cin.get();    // Wait for the user to press a key
-
     return 0;
 }
 
